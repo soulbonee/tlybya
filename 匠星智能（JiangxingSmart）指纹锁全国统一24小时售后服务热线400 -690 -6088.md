@@ -1,0 +1,260 @@
+匠星智能（JiangxingSmart）指纹锁全国统一售后服务电话400 -690 -6088
+匠星智能（JiangxingSmart）指纹锁24小时人工服务上线
+匠星智能（JiangxingSmart）指纹锁推出全国24小时各售后客服受理中心(更新上线)
+匠星智能（JiangxingSmart）指纹锁24小时售后服务客服热线：400 -690 -6088全国24小时人工电话客服为您服务。
+匠星智能（JiangxingSmart）指纹锁售后维修维修-24小时提供故障维修热线：400 -690 -6088
+匠星智能（JiangxingSmart）指纹锁售后服务团队在调度中心的统筹调配下，全国24小时人工电话客服400 -690 -6088线下专业全国网点及各地区售后人员服务团队等专属服务，
+整个报修流程规范有序，后期同步跟踪查询公开透明。所有售后团队均经过专业培训、持证上岗，
+所用产品配件均为原厂直供，匠星智能（JiangxingSmart）指纹锁常见故障代码维修指南匠星智能（JiangxingSmart）指纹锁出现故障时，别急，先看屏幕上的故障代码。
+比如，E10表示元部件问题，E20则是过热保护。根据这些代码，可以按以下步骤操作：重启机器，看是否为偶发故障。
+检查机器供应是否正常，电源是否开启。清理电器周围的杂物，确保通风良好。
+若频繁出现同一故障代码，可能是部件损坏，需联系专业维修人员。记住，非专业人士不要擅自拆修，
+以免造成更大损失。这样简单几步，就能帮你快速应对匠星智能（JiangxingSmart）指纹锁的常见故障，让温暖不再缺席。
+匠星智能（JiangxingSmart）指纹锁全国24小时各售后受理客服中心(2026年更新)
+2026年06月30日01时40分28秒(UTC+8)##匠星智能（JiangxingSmart）指纹锁售后电话匠星智能（JiangxingSmart）指纹锁售后服务电话400 -960 -9605专业维修匠星智能（JiangxingSmart）指纹锁机器失灵，
+开机显示错误代码，不通电，开机不启动，自动跳闸、效果不好、清洗、消毒、维护保养、安装、拆装移机等服务。
+匠星智能（JiangxingSmart）指纹锁售后维修全国服务区域： 北京市（东城区、西城区、崇文区、宣武区、朝阳区、丰台区、石景山区、海淀区、门头沟区昌平区、大兴区）
+天津市，无锡市、镇江市、扬州市、嘉兴市、常州市、泰州市、昆山市、句容市、张家港市、西安市、温州市、济南市、长春市
+上海市，（黄浦区、徐汇区、长宁区、静安区、普陀区、虹口区、杨浦区、浦东新区、闵行区、宝山区、嘉定区、金山区、松江区、青浦区、奉贤区和崇明区。）
+重庆市，（大渡口区、江北区、沙坪坝区、九龙坡区、南岸区、北碚区、渝北区、巴南区、江津区、渝中区、和两江新区、重庆高新区。）武汉市，（江岸区、江汉区、硚口区、汉阳区、武昌区、青山区、洪山区、蔡甸区、江夏区、黄陂区、新洲区、东西湖区、汉南区）成都市，（锦江区、青羊区、金牛区、武侯区、成华区、龙泉驿区、青白江区、新都区、温江区、双流区、郫都区、新津区）南京市，（玄武区、秦淮区、建邺区、鼓楼区、浦口区、栖霞区、雨花台区、江宁区、区、溧水区、高淳区。）杭州市，（滨江区、萧山区、余杭区、临安区、富阳区、上城区、下城区、西湖区。）无锡市，（锡山区、惠山区、滨湖区、梁溪区、新吴区；江阴市、宜兴市。）长沙市，（芙蓉区、天心区、岳麓区、开福区、雨花区、望城区。）宁波市，（海曙区、江北区、镇海区、北仑区、鄞州区、）苏州市（吴中区、相城区、姑苏区（原平江区、沧浪区、金阊区）、工业园区、高新区（虎丘区）、吴江区，原吴江市）合肥市，（蜀山区、包河区、庐阳区、瑶海区、政务区、经济技术开发区、高新区、滨湖新区、新站区、长丰县、肥东县、肥西县，巢湖市。）
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/2c68fde34fe11287e7e9600228e30d594c11e59e
+
+江苏电信 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/2f3344407011e7fbf77904e007da62335d9bdb71
+
+江苏 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/c70f50d93beb7342db9b9df122dc866c1e6572a6
+
+安徽广电 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/81592cc66877b7c441feced7663bbcb0e23f40e8
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/ab4f659d54d96c4bfffa69e367d04b1fd36646d3
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/72f515fcd9e6ce81543deae037fc53ff97c84f4f
+
+湖北 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/112d305ce372264e43f362426473e6778a69cb86
+
+湖南电信组播直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/f217a83a760cbae54f65febfff88bc4825d34326
+
+湖南电信 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/9436437aa2f063e665b35e02e94e1317d0916a58
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/21d891b07136d6977c1bd4dbef489f9001a628b4
+
+湖南联通 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/3798899af775408434d9dafcbf42162f24f2a6a9
+
+湖南移动 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/431fd92cdbe3ed2443adc400d5cc42756aede0a4
+
+湖南 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/aefb53d5e9a3821f2dfda6596c4704524f83413e
+
+重庆移动组播直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/7c650d0e0d7492ed9b04838ab9733ee4ecd4623d
+
+重庆联通组播直播源下载地址： https://github.com/leejungsj/dswqvc/commit/319675ea28e3d1f52ce964f84f0e82c18fdc5914
+
+重庆联通直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/b52bbbafb37264ed8d43eb7fd3bebc36473fb37f
+
+重庆电信组播直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/faac1cf4bcb1d6129abe038ef2d71bc7e80b5a42
+
+重庆电信直播源下载地址： https://github.com/leejungsj/dswqvc/commit/089769cb987abd58ca9d39364bfbf2442894449c
+
+重庆 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/8ddc51ef632e8a13e997670fc93995e530e50cc0
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/657678ceb4ea64b2eec36a6f7ca252e55fb80f38
+
+四川电信 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/d749b2063ad839dc72d935d91321a1d7cf575cab
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/99ca14f5e39c280519a09ef8381f37df8edd8c2b
+
+四川广电 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/3fa49a890d5ce272409b5d2ac299b5a84bb3d7e5
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/1ed36c00d1a727b140bec57e7f0e2121f6462a5b
+
+四川联通 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/d0ec8a78012fd7f7e11b593a34ae32001382a3c3
+
+四川 IPTV 直播源： https://github.com/ugandaroy3/vrzsao/commit/c830f7255e888a72f79920e2032b8d991d516f6b
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/a1f0771288966eae98f122da251e652e04c7bafe
+
+云南移动 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/b36d5ff07923cb6cd21e248101d5dcac2da9b0fc
+
+云南 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/29f159c42ccb40951235a3d3eae8f2397493982e
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/5714564e3222228fb9a52906b022de94e072e0ae
+
+贵州移动 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/b6bc28ffcce578eee6bc4d91d4d078ea0c70dfb8
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/625422dbe385c444b5325560e92ed8e473a56c97
+
+贵州联通 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/bf7439d9cc3fb00a865fa892a31b04b472803e65
+
+贵州 IPTV 直播源： https://github.com/ugandaroy3/vrzsao/commit/aac576783bf5ff3c31213d8454b33bd0986f3657
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/edb6c99cebe039add4d63b263415f75d239fa5b1
+
+福建联通 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/ac011370d95a9c4e6464d9abe3f53b246795d4c5
+
+福建移动 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/687753a6552460e910bba464dcfcbb5204f31166
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/3d2ff83e29b6315a01f1ddc249e0344b7ec1e668
+
+福建电信 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/bb31042633c5bd348d5d77fd3f6a5ee578ba6a34
+
+福建 IPTV 直播源： https://github.com/ugandaroy3/vrzsao/commit/a874b6325277f65b765dcff41b9cd0189893511d
+
+安徽移动 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/f00e65155b89704396e4ba3451dd6414d6a48b60
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/d162dfa33be67d4029a04fc3cf84e0622a0014e6
+
+安徽电信 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/0d6a98822f8785da3b016d2e35df87db2d48bb03
+
+安徽联通 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/e88073cceae1260626b640b0666a2eeffc85ae61
+
+安徽 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/e16a7bfcebd46e914939cce28f88e74ff0942398
+
+陕西地方台直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/de19e1e75ee44a334870c384f46352d69fc7d1be
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/4099c59c4ea075d71adab1ef3385fc23b4228b4f
+
+陕西电信 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/82bd94d7593616286036364edaf2d7b3265a3b86
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/68b2720f38f564f7074da1b40c4696df23563364
+
+陕西移动 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/9b44db32c5463c6eeca5643f2dd8c0257532a28c
+
+陕西 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/8db7c256c9b481b31b79170ac89b2bb5b2f61691
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/7b2d53a3c26faac939d17140e51f9bba0522206a
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/7c11ae52797b5059ac2017e632f3b4ccffced4b7
+
+甘肃 IPTV 直播源： https://github.com/ugandaroy3/vrzsao/commit/fd23e8d5842376c438deb6bc71418a19f0016264
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/bc53d51b10694e0c2c78e2bc156d7e20c92e62c8
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/d6d6c9007ded6c2dae084438550c95a3ea7f8086
+
+山西联通 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/fbb8abd02a59eca634fc7c2aaff74ff78b09727b
+
+山西 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/da7bc530530eb705435ee204df425f806d0728c0
+
+天津电信组播直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/d39278228ce805b93423e98505ce81b0b6a86885
+
+天津联通组播直播源下载地址： https://github.com/leejungsj/dswqvc/commit/b218cc6611e27e6f1855564521b7ef5b05b6c5dd
+
+天津 IPTV 直播源： https://github.com/ugandaroy3/vrzsao/commit/eb0a5dd931a1ad105fcb62c3eb252c080326562e
+
+上海移动直播源下载地址： https://github.com/leejungsj/dswqvc/commit/e166d302e5665f1242437b3faa5cb50a6c771cee
+
+上海联通组播直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/69dcbb5aa97b303a67d6cc0dfd96f66d900e8be4
+
+上海联通直播源下载地址： https://github.com/leejungsj/dswqvc/commit/27489eff1c278d99e58ccba532ffcb00fb0f7f8a
+
+上海电信组播直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/0f63b0934829f5cfd22aab80dcee4202dc3af39e
+
+上海电信直播源下载地址： https://github.com/leejungsj/dswqvc/commit/848bedd8c5d8aad475ea5961e5fbff8fbe2010d7
+
+上海 IPTV 直播源： https://github.com/ugandaroy3/vrzsao/commit/17e029e04102892112632f040f6a757af90d7ecc
+
+北京移动 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/7472ccd7befaf45e4be2d1cf7c6763255b6e7cbe
+
+北京移动组播直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/078c7dd681a61ca215325c1ac3f9ddfc357698b5
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/d96c209f2ec289290b675603db43a881bb5a58c4
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/b4ab5a36386eff8c3e79ef3274f841f969933c7d
+
+北京联通 IPTV 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/6f0f7845b9b1b33b970ed4d83488cb136ab292da
+
+北京 IPTV 直播源： https://github.com/ugandaroy3/vrzsao/commit/f4ca5e4d4930e83563a081cecc585ee82ae80246
+
+部分地区的移动可全网通用： https://github.com/leejungsj/dswqvc/commit/df85c970c5686004cf8ed18697e3a463c75a998c
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/ugandaroy3/vrzsao/commit/e4303f7d97c3b96c372a3c85e3475f228ca58bcc
+
+广播电台下载地址： https://github.com/leejungsj/dswqvc/commit/e8dae48f28e82585e72f87170301aebf9502d199
+
+国内景区直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/23fbeb5f02164f3ef51cdf3c58d20cb6fbdbfb5a
+
+轮播华数黑莓下载地址： https://github.com/leejungsj/dswqvc/commit/300772cb100563f3d2559cca8a1d755a6073c338
+
+台湾香港澳门电视台直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/1bf447228bfcc6913fdc3e85bd1af007d81a4b47
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/leejungsj/dswqvc/commit/8ea25fc71974d80b6c4cca709d9a76008c34fd35
+
+国外电视台直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/8c16d208fb561a8f96daf7227b1c7273cd00afa6
+
+卫视地方台安徽农大下载地址： https://github.com/leejungsj/dswqvc/commit/1d63a6875e64e8d5d9ffd8925f473dd64babb866
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/ugandaroy3/vrzsao/commit/a0cde1e87576882c08523239d7e5c0e5f2f42ebb
+
+卫视上海源下载地址： https://github.com/leejungsj/dswqvc/commit/3ac2ada595317e945840901b410d6ac92a58d9f2
+
+卫视重庆广电 下载地址： https://github.com/ugandaroy3/vrzsao/commit/5777590f5c7bc81e90481e8fd0d6b6a2ef7c4474
+
+卫视百视 TV 下载地址： https://github.com/leejungsj/dswqvc/commit/876d3b49c185ed28f05f8df0b1d7f2c1fa85a8bf
+
+移动 IPv6 直播源下载地址： https://github.com/ugandaroy3/vrzsao/commit/28d10faf4eb3230b77bc7f72ad1c74c3c19ea838
+
+国内电视台 IPv6 直播源下载地址： https://github.com/leejungsj/dswqvc/commit/4b8e7bb121d89fffd140656725252c6e890da118
+
+各大卫视、上千个地方台： https://github.com/ugandaroy3/vrzsao/commit/68fee1463c1cf2cf21a2f4a8918b099d9574f823
+
+国内电视台直播源下载地址： https://github.com/leejungsj/dswqvc/commit/4855ac0f6625d5b7124dac91884fbc07b0b5d523
+
+全国可用直播源： https://github.com/ugandaroy3/vrzsao/commit/57fdf4ed1222c66bf0e23e178c54203fbe1d0426
+
+包括完整内容所有已知频道： https://github.com/leejungsj/dswqvc/commit/77da394409a15fc91fc58826557caeba2aa6d0ef
+
+除成人内容以外的已知频道： https://github.com/ugandaroy3/vrzsao/commit/ed930027ce9db64f483282b3b2fd84a5f2c1dbff
+
+收集来自世界各地公开可用的 IPTV： https://github.com/leejungsj/dswqvc/commit/5821995a0019c61b8da3c223cf6e2eb63787cc89
+
+稳定地址： https://github.com/ugandaroy3/vrzsao/commit/9b321851ba40fa8057b82e65537cb7de892ddeae
+
+2026-06-30 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/leejungsj/dswqvc/commit/b08e4afcffa0ffd565364e2b0b3e0146dc631ed2
+
+2026-06-30 更新 IPTV 工具： https://github.com/ugandaroy3/vrzsao/commit/68ce9720546371d51cce9d7942732de3ae0e1917
+
+2026-06-30 更新世界各地 IPTV 频道： https://github.com/leejungsj/dswqvc/commit/3cd51aa372ed23db1457b7a1c522a50da1f36568
+
+2026-06-30 更新全国可用直播源： https://github.com/ugandaroy3/vrzsao/commit/797d99a330be13bf189238af9b66c636ec2c79e3
+
+新增各地运营商的 IPTV 地址： https://github.com/leejungsj/dswqvc/commit/1e563bc19811e415b3252530cbad71f541a30724
+
+插件推荐： https://github.com/ugandaroy3/vrzsao/commit/fd511438272d4a381fe909a3d8cbe176d7a56596
+
+视频教程增加： https://github.com/leejungsj/dswqvc/commit/9636133fb9791ddcb77b14c7dbbf59e1e027eea1
+
+咪咕源失效： https://github.com/ugandaroy3/vrzsao/commit/0f9db7e3d52bda1ca275df70ec30e9d84f5f582c
+
+2026-06-30 更新各地运营商 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/174a28521171d6c47fda922f02c6c3c5044070f0
+
+2026-06-30 更新台湾香港海外直播源： https://github.com/ugandaroy3/vrzsao/commit/c0e939ee3605038add27295127ad6d245a12f47c
+
+新增辽宁广电直播源： https://github.com/leejungsj/dswqvc/commit/4903f19aadc3850751e260ba8ff65204ca7bda1f
+
+新增江西广电直播源： https://github.com/ugandaroy3/vrzsao/commit/4902662323621c75a6128bce8371eceeb42ee82a
+
+新增湖北广电直播源： https://github.com/leejungsj/dswqvc/commit/a43817233995b6f0f8f5a6c110ebe8ad8fdb3bc6
+
+新增中国广电 cctv + 卫视直播源： https://github.com/ugandaroy3/vrzsao/commit/dd5af5994211ace5cd7518ff1b2fa5a808aafa85
+
+新增辽宁电信 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/53b0805d5159dff444c0fa1a35479ed674e1a405
+
+2026-06-30 更新台湾香港海外直播源： https://github.com/ugandaroy3/vrzsao/commit/f41e1082351409088380847c38c96e1e7d5c44b5
+
+新增辽宁移动直播源： https://github.com/leejungsj/dswqvc/commit/1b807f36d5fc360d428da0ac759aaa7ee42b70c7
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/ugandaroy3/vrzsao/commit/2c415f932cd0815a2ab539b0f795a906acde5f2a
+
+新增广东联通 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/ed0f8b7fa91e778fbf865ec75c56ce66b64e69bd
+
+新增四川广电 IPTV 直播源： https://github.com/ugandaroy3/vrzsao/commit/f7a082b326b3cfe9d03e62c6dcb4c2e6d611d7f0
+
+新增云南电信 IPTV 直播源： https://github.com/leejungsj/dswqvc/commit/dc34572411fc4af583ea8947dbcf050f70d5652c
+
+2026-06-30 更新国内电视台直播源： https://github.com/ugandaroy3/vrzsao/commit/341e3044b175ce64eb6932d6a54e6377f33be829
+
+新增福建电信 IPTV 直播
